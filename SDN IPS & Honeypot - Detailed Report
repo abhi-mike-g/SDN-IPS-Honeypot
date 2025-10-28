@@ -1,5 +1,4 @@
 Intrusion Detection, Prevention and Mitigation for Software Defined Networks – using Floodlight Controller.
-Author: Pratik Lotia
 
 •	Background:
 Since its inception in 2007 at the Stanford University, Software Defined Networks (SDN) is the most promising concept which is
@@ -85,15 +84,6 @@ a different system.
 the sender of the suspicious traffic. The honeypot system varies from application to application.
 	Hence attacks can be mitigated using this method.
 	This concludes the working of this project.
-
-About the author:
-Pratik Lotia is currently a Graduate student (Masters) in Network Security and SDN Automation in the Interdisciplinary
-Telecommunications Program (ITP) at University of Colorado Boulder. He has a Bachelor of Engineering (B.E.) in Electronics and
-Telecommunications from University of Mumbai.
-Prior to this, he has been involved in several research projects ranging from Renewable Energy to Industrial Printing technology.
-He has been recognized in the Top 50 Innovators of India by the Govt. of Indian and Lockheed Martin.
-He has been a founder of a start-up called VenTech which is involved in Automation of Embedded systems and Industrial Machinery. He 
-has been selected in Top 25 upcoming entrepreneurs by the TATA Group.
 
 
 References:
